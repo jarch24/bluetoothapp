@@ -1,4 +1,10 @@
 {
   "name": "DeviceConnect",
-  "displayName": "DeviceConnect"
+  "displayName": "DeviceConnect",
+  "expo": {
+    "slug": "DeviceConnect",
+    "name": "DeviceConnect",
+    "sdkVersion": "51.0.0",
+    "entryPoint": ".vscode\\exponentIndex.js"
+  }
 }
